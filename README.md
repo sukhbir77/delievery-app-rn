@@ -9,7 +9,7 @@ DashDeliver is a feature-rich delivery app, inspired by services like DoorDash, 
 ## Key Features
 
 - **React Native Framework:** Developed using React Native for a cross-platform app that works seamlessly on iOS and Android devices.
-- **Tailwind CSS Styling:** Employs Tailwind for a visually appealing and responsive design, ensuring a delightful user interface.
+- **Tailwind CSS Styling:** Employs Tailwind for visually appealing and responsive design, ensuring a delightful user interface.
 - **Google Maps Integration:** Leverages the power of Google Maps API to provide accurate location tracking, real-time navigation, and precise delivery estimates.
 - **Stripe Payment Processing:** Ensures secure and efficient payment transactions using the Stripe API, offering a seamless checkout experience.
 
